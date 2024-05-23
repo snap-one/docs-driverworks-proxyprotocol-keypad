@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-keypad
- Keypad Proxy SDk documentation
+# Driverworks Proxy/Protocol Guide - keypad
+
+Keypad Proxy SDk documentation
